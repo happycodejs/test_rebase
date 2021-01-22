@@ -39,3 +39,4 @@ compose(f1, f2)('aaa')
 //f1(f2('aaa'))
 
 console.log('dev1-1')
+console.log('dev1-2')

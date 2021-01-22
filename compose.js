@@ -40,3 +40,4 @@ compose(f1, f2)('aaa')
 
 console.log('dev1-1')
 console.log('dev1-2')
+console.log('dev1-3')

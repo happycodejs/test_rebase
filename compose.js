@@ -37,3 +37,6 @@ const compose = function(...args) {
 compose(f1, f2)('aaa')
 
 //f1(f2('aaa'))
+
+
+console.log('dev2')

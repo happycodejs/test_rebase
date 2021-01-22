@@ -38,5 +38,7 @@ compose(f1, f2)('aaa')
 
 //f1(f2('aaa'))
 
-
-console.log('dev2')
+console.log('dev1-1')
+console.log('dev1-2')
+console.log('dev1-3')
+console.log('dev1-4')
